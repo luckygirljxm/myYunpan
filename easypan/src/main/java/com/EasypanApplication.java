@@ -1,4 +1,4 @@
-package com.easypan;
+package com;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
